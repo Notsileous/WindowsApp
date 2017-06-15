@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ListonFinal
+</name>
+</assembly>
+<members>
+<member name="P:ListonFinal.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:ListonFinal.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="M:ListonFinal.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:ListonFinal.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
